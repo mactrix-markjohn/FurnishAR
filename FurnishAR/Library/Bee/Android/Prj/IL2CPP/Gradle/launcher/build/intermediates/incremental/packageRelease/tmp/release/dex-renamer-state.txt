@@ -1,0 +1,4 @@
+#Mon Mar 21 13:50:41 WAT 2022
+base.0=C\:\\Users\\Chukwuemeka\\Documents\\ExtendedReality\\GitHub\\FurnishAR\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

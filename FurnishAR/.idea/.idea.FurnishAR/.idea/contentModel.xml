@@ -1,0 +1,1353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Chukwuemeka\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Chukwuemeka\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_FurnishAR.1507270667.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR" t="IncludeRecursive">
+      <e p="ARDK-Editor.csproj" t="IncludeRecursive" />
+      <e p="ARDK-Examples.csproj" t="IncludeRecursive" />
+      <e p="ARDK.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="ARDK" t="Include">
+          <e p="AR" t="Include">
+            <e p="_Convert.cs" t="Include" />
+            <e p="_CppAddressAndScale.cs" t="Include" />
+            <e p="_IARSession.cs" t="Include" />
+            <e p="_NativeARSession.cs" t="Include" />
+            <e p="_SessionFrameSharedLogic.cs" t="Include" />
+            <e p="_VideoStreamHelper.cs" t="Include" />
+            <e p="Anchors" t="Include">
+              <e p="_ARAnchorFactory.cs" t="Include" />
+              <e p="_NativeARAnchor.cs" t="Include" />
+              <e p="_NativeARBaseAnchor.cs" t="Include" />
+              <e p="_NativeARImageAnchor.cs" t="Include" />
+              <e p="_NativeARPlaneAnchor.cs" t="Include" />
+              <e p="_SerializableARAnchor.cs" t="Include" />
+              <e p="_SerializableARAnchorFactory.cs" t="Include" />
+              <e p="_SerializableARBaseAnchor.cs" t="Include" />
+              <e p="_SerializableARImageAnchor.cs" t="Include" />
+              <e p="_SerializableARPlaneAnchor.cs" t="Include" />
+              <e p="AnchorType.cs" t="Include" />
+              <e p="IARAnchor.cs" t="Include" />
+              <e p="IARImageAnchor.cs" t="Include" />
+              <e p="IARPlaneAnchor.cs" t="Include" />
+              <e p="PlaneAlignment.cs" t="Include" />
+              <e p="PlaneClassification.cs" t="Include" />
+              <e p="PlaneClassificationStatus.cs" t="Include" />
+            </e>
+            <e p="ARCameraFeed.cs" t="Include" />
+            <e p="ARError.cs" t="Include" />
+            <e p="ARFrameDisposalPolicy.cs" t="Include" />
+            <e p="ARSessionEventArgs" t="Include">
+              <e p="AnchorsArgs.cs" t="Include" />
+              <e p="AnchorsMergedArgs.cs" t="Include" />
+              <e p="AnyARSessionInitializedArgs.cs" t="Include" />
+              <e p="ARSessionDeinitializedArgs.cs" t="Include" />
+              <e p="ARSessionFailedArgs.cs" t="Include" />
+              <e p="ARSessionInterruptedArgs.cs" t="Include" />
+              <e p="ARSessionInterruptionEndedArgs.cs" t="Include" />
+              <e p="ARSessionPausedArgs.cs" t="Include" />
+              <e p="ARSessionRanArgs.cs" t="Include" />
+              <e p="CameraTrackingStateChangedArgs.cs" t="Include" />
+              <e p="FrameUpdatedArgs.cs" t="Include" />
+              <e p="MapsArgs.cs" t="Include" />
+              <e p="QueryingShouldSessionAttemptRelocalizationArgs.cs" t="Include" />
+            </e>
+            <e p="ARSessionFactory.cs" t="Include" />
+            <e p="ARSessionRunOptions.cs" t="Include" />
+            <e p="Awareness" t="Include">
+              <e p="_AwarenessBufferBase.cs" t="Include" />
+              <e p="_AwarenessBufferFactory.cs" t="Include" />
+              <e p="_AwarenessBufferHelper.cs" t="Include" />
+              <e p="_AwarenessInitializationCodeTranslator.cs" t="Include" />
+              <e p="_NativeAwarenessBufferBase.cs" t="Include" />
+              <e p="_SerializableAwarenessBufferBase.cs" t="Include" />
+              <e p="_SerializableAwarenessBufferSerializer.cs" t="Include" />
+              <e p="AwarenessParameters.cs" t="Include" />
+              <e p="Depth" t="Include">
+                <e p="_NativeDepthBuffer.cs" t="Include" />
+                <e p="_SerializableDepthBuffer.cs" t="Include" />
+                <e p="_SerializableDepthBufferSerializer.cs" t="Include" />
+                <e p="DepthProvider" t="Include">
+                  <e p="DepthBufferProcessor.cs" t="Include" />
+                </e>
+                <e p="Effects" t="Include">
+                  <e p="DepthMeshBufferHelper.cs" t="Include" />
+                  <e p="DepthMeshOccluder.cs" t="Include" />
+                  <e p="DepthMeshOcclusionEffect.cs" t="Include" />
+                  <e p="DepthMeshRendererFeature.cs" t="Include" />
+                  <e p="Resources" t="Include">
+                    <e p="ContextAwarenessUtils.cginc" t="Include" />
+                    <e p="DepthMeshOccluder.shader" t="Include" />
+                    <e p="DepthMeshOcclusionEffect.shader" t="Include" />
+                  </e>
+                </e>
+                <e p="Generators" t="Include">
+                  <e p="_DepthPointCloud.cs" t="Include" />
+                  <e p="DepthPointCloudGenerator.cs" t="Include" />
+                  <e p="IDepthPointCloud.cs" t="Include" />
+                  <e p="Resources" t="Include">
+                    <e p="DepthPointCloudGenerator.compute" t="Include" />
+                  </e>
+                </e>
+                <e p="IDepthBuffer.cs" t="Include" />
+                <e p="IDepthBufferProcessor.cs" t="Include" />
+              </e>
+              <e p="IAwarenessBuffer.cs" t="Include" />
+              <e p="IDataBuffer.cs" t="Include" />
+              <e p="Semantics" t="Include">
+                <e p="_NativeSemanticBuffer.cs" t="Include" />
+                <e p="_SerializableSemanticBuffer.cs" t="Include" />
+                <e p="_SerializableSemanticBufferSerializer.cs" t="Include" />
+                <e p="Generators" t="Include">
+                  <e p="_DepthPointCloud.cs" t="Include" />
+                  <e p="IDepthPointCloud.cs" t="Include" />
+                </e>
+                <e p="IAwarenessBufferProcessor.cs" t="Include" />
+                <e p="ISemanticBuffer.cs" t="Include" />
+                <e p="ISemanticBufferProcessor.cs" t="Include" />
+                <e p="SemanticsProvider" t="Include">
+                  <e p="SemanticBufferProcessor.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="AwarenessBufferProcessor.cs" t="Include" />
+            <e p="Camera" t="Include">
+              <e p="_ARCameraFactory.cs" t="Include" />
+              <e p="_NativeARCamera.cs" t="Include" />
+              <e p="_SerializableARCamera.cs" t="Include" />
+              <e p="CameraIntrinsics.cs" t="Include" />
+            </e>
+            <e p="CompressedImage.cs" t="Include" />
+            <e p="Configuration" t="Include">
+              <e p="_ARConfigurationValidator.cs" t="Include" />
+              <e p="_ARWorldTrackingConfigurationSerializer.cs" t="Include" />
+              <e p="_NativeARConfiguration.cs" t="Include" />
+              <e p="_NativeARWorldTrackingConfiguration.cs" t="Include" />
+              <e p="_SerializableARConfiguration.cs" t="Include" />
+              <e p="_SerializableARWorldTrackingConfiguration.cs" t="Include" />
+              <e p="ARCoreInstaller.cs" t="Include" />
+              <e p="ARHardwareCapability.cs" t="Include" />
+              <e p="ARSessionChangesCollector.cs" t="Include" />
+              <e p="ARSoftwareSupport.cs" t="Include" />
+              <e p="ARWorldTrackingConfigurationFactory.cs" t="Include" />
+              <e p="DepthFeatures.cs" t="Include" />
+              <e p="IARConfiguration.cs" t="Include" />
+              <e p="IARWorldTrackingConfiguration.cs" t="Include" />
+              <e p="PlaneDetection.cs" t="Include" />
+              <e p="WorldAlignment.cs" t="Include" />
+            </e>
+            <e p="ContextAwarenessArgs.cs" t="Include" />
+            <e p="Frame" t="Include">
+              <e p="_ARFrameBase.cs" t="Include" />
+              <e p="_ARFrameFactory.cs" t="Include" />
+              <e p="_NativeARFrame.cs" t="Include" />
+              <e p="_SerializableARFrame.cs" t="Include" />
+              <e p="_SerializableARFrameBase.cs" t="Include" />
+            </e>
+            <e p="HitTest" t="Include">
+              <e p="_NativeARHitTestResult.cs" t="Include" />
+              <e p="_SerializableARHitTestResult.cs" t="Include" />
+              <e p="_SerializableARHitTestResultFactory.cs" t="Include" />
+              <e p="ARHitTestResultType.cs" t="Include" />
+              <e p="IARHitTestResult.cs" t="Include" />
+            </e>
+            <e p="IARCamera.cs" t="Include" />
+            <e p="IARFaceGeometry.cs" t="Include" />
+            <e p="IARFrame.cs" t="Include" />
+            <e p="IARLightEstimate.cs" t="Include" />
+            <e p="IARPlaneGeometry.cs" t="Include" />
+            <e p="IARPointCloud.cs" t="Include" />
+            <e p="IARSession.cs" t="Include" />
+            <e p="IARVideoFormat.cs" t="Include" />
+            <e p="IImageBuffer.cs" t="Include" />
+            <e p="IImagePlane.cs" t="Include" />
+            <e p="IImagePlanes.cs" t="Include" />
+            <e p="ILocalizableARSession.cs" t="Include" />
+            <e p="Image" t="Include">
+              <e p="_ImageFactory.cs" t="Include" />
+              <e p="_NativeImageBuffer.cs" t="Include" />
+              <e p="_NativeImagePlane.cs" t="Include" />
+              <e p="_NativeImagePlanes.cs" t="Include" />
+              <e p="_SerializableImageBuffer.cs" t="Include" />
+              <e p="_SerializableImageBufferSerializer.cs" t="Include" />
+              <e p="_SerializableImagePlane.cs" t="Include" />
+              <e p="_SerializableImagePlanes.cs" t="Include" />
+              <e p="_SerializableImagePlaneSerializer.cs" t="Include" />
+            </e>
+            <e p="ImageFormat.cs" t="Include" />
+            <e p="IncorrectlyUsedNativeClassException.cs" t="Include" />
+            <e p="InterpolationMode.cs" t="Include" />
+            <e p="LightEstimate" t="Include">
+              <e p="_ARLightEstimateFactory.cs" t="Include" />
+              <e p="_NativeARLightEstimate.cs" t="Include" />
+              <e p="_SerializableARLightEstimate.cs" t="Include" />
+            </e>
+            <e p="Localization" t="Include">
+              <e p="ARWorldCoordinateSpace.cs" t="Include" />
+              <e p="Configuration" t="Include">
+                <e p="_NativeLocalizationConfiguration.cs" t="Include" />
+                <e p="_SerializableLocalizationConfiguration.cs" t="Include" />
+                <e p="LocalizationConfiguationFactory.cs" t="Include" />
+              </e>
+              <e p="ILocalizationConfiguration.cs" t="Include" />
+              <e p="ILocalizer.cs" t="Include" />
+              <e p="LocalizationArgs" t="Include">
+                <e p="LocalizationProgressArgs.cs" t="Include" />
+              </e>
+              <e p="LocalizationFailureReason.cs" t="Include" />
+              <e p="LocalizationState.cs" t="Include" />
+              <e p="Localizer" t="Include">
+                <e p="_MockLocalizer.cs" t="Include" />
+                <e p="_NativeLocalizer.cs" t="Include" />
+              </e>
+            </e>
+            <e p="MergedAnchorInfo.cs" t="Include" />
+            <e p="Mesh" t="Include">
+              <e p="_FileARMeshData.cs" t="Include" />
+              <e p="_IARMeshData.cs" t="Include" />
+              <e p="_MeshDataParser.cs" t="Include" />
+              <e p="_NativeARMeshData.cs" t="Include" />
+              <e p="_SerializableARMeshData.cs" t="Include" />
+              <e p="ARMeshConstants.cs" t="Include" />
+              <e p="FileARMesh.cs" t="Include" />
+              <e p="IARMesh.cs" t="Include" />
+              <e p="MeshBlock.cs" t="Include" />
+              <e p="MeshBlocksClearedArgs.cs" t="Include" />
+              <e p="MeshBlocksUpdatedArgs.cs" t="Include" />
+            </e>
+            <e p="NativeAccess.cs" t="Include" />
+            <e p="Networking" t="Include">
+              <e p="_NativeARNetworking.cs" t="Include" />
+              <e p="ARNetworkingEventArgs" t="Include">
+                <e p="AnyARNetworkingInitializedArgs.cs" t="Include" />
+                <e p="ARNetworkingDeinitializedArgs.cs" t="Include" />
+                <e p="PeerAnchorUpdatedArgs.cs" t="Include" />
+                <e p="PeerPoseReceivedArgs.cs" t="Include" />
+                <e p="PeerStateReceivedArgs.cs" t="Include" />
+                <e p="SharedAnchorsArgs.cs" t="Include" />
+              </e>
+              <e p="ARNetworkingFactory.cs" t="Include" />
+              <e p="IARNetworking.cs" t="Include" />
+              <e p="MarkerScanCoordinator.cs" t="Include" />
+              <e p="NativeARNetworkingMode_Experimental.cs" t="Include" />
+              <e p="NetworkAnchors" t="Include">
+                <e p="_NativePeerAnchor.cs" t="Include" />
+                <e p="_NativeSharedAnchor.cs" t="Include" />
+                <e p="_SerializablePeerAnchor.cs" t="Include" />
+                <e p="_SerializableSharedAnchor.cs" t="Include" />
+                <e p="_SharedAnchorDataUpdate.cs" t="Include" />
+                <e p="IARPeerAnchor.cs" t="Include" />
+                <e p="IARSharedAnchor.cs" t="Include" />
+                <e p="NetworkAnchorManager.cs" t="Include" />
+                <e p="PeerAnchorData.cs" t="Include" />
+                <e p="PeerAnchorStatus.cs" t="Include" />
+                <e p="SharedAnchorIdentifier.cs" t="Include" />
+                <e p="SharedAnchorTrackingState.cs" t="Include" />
+              </e>
+            </e>
+            <e p="PlaneGeometry" t="Include">
+              <e p="_NativeARPlaneGeometry.cs" t="Include" />
+              <e p="_SerializableARPlaneGeometry.cs" t="Include" />
+            </e>
+            <e p="PointCloud" t="Include">
+              <e p="_NativeARPointCloud.cs" t="Include" />
+              <e p="_SerializableARPointCloud.cs" t="Include" />
+            </e>
+            <e p="ReferenceImage" t="Include">
+              <e p="_NativeARReferenceImage.cs" t="Include" />
+              <e p="_SerializableARReferenceImage.cs" t="Include" />
+              <e p="AlphaInfo.cs" t="Include" />
+              <e p="ARReferenceImageFactory.cs" t="Include" />
+              <e p="ByteOrderInfo.cs" t="Include" />
+              <e p="IARReferenceImage.cs" t="Include" />
+              <e p="Orientation.cs" t="Include" />
+            </e>
+            <e p="RuntimeEnvironment.cs" t="Include" />
+            <e p="SLAM" t="Include">
+              <e p="ARMap" t="Include">
+                <e p="_ARMapFactory.cs" t="Include" />
+                <e p="_NativeARMap.cs" t="Include" />
+                <e p="_SerializableARMap.cs" t="Include" />
+                <e p="IARMap.cs" t="Include" />
+              </e>
+              <e p="MapLayerIdentifier.cs" t="Include" />
+              <e p="MappingRole.cs" t="Include" />
+              <e p="MarkerSyncer" t="Include">
+                <e p="IMarkerSyncer.cs" t="Include" />
+                <e p="NativeMarkerSyncer.cs" t="Include" />
+              </e>
+            </e>
+            <e p="TrackingState.cs" t="Include" />
+            <e p="TrackingStateReason.cs" t="Include" />
+            <e p="VideoFormat" t="Include">
+              <e p="_NativeARVideoFormat.cs" t="Include" />
+              <e p="_SerializableARVideoFormat.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ARDK.asmdef" t="Include" />
+          <e p="Configuration" t="Include">
+            <e p="_IArdkConfig.cs" t="Include" />
+            <e p="_NativeArdkConfig.cs" t="Include" />
+            <e p="_PlaceholderARDKConfig.cs" t="Include" />
+            <e p="_SerializeableArdkConfig.cs" t="Include" />
+            <e p="ArdkGlobalConfig.cs" t="Include" />
+            <e p="Authentication" t="Include">
+              <e p="ArdkAuthConfig.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Editor" t="Include">
+            <e p="_MockPlayConfigurationEditor.cs" t="Include" />
+            <e p="_RemoteConfigurationEditor.cs" t="Include" />
+            <e p="ARDK-Editor.asmdef" t="Include" />
+            <e p="Extensions" t="Include">
+              <e p="Depth" t="Include">
+                <e p="ARDepthManagerInspector.cs" t="Include" />
+              </e>
+              <e p="Rendering" t="Include">
+                <e p="ARRenderingManagerInspector.cs" t="Include" />
+              </e>
+              <e p="Semantics" t="Include">
+                <e p="ARSemanticSegmentationManagerInspector.cs" t="Include" />
+              </e>
+            </e>
+            <e p="PostBuildProcess.cs" t="Include" />
+            <e p="VirtualStudioConfigurationEditor.cs" t="Include" />
+          </e>
+          <e p="Extensions" t="Include">
+            <e p="_ExtensionsExecutionOrder.cs" t="Include" />
+            <e p="ARCameraPositionHelper.cs" t="Include" />
+            <e p="ARCameraPositionHistoryHelper.cs" t="Include" />
+            <e p="ARCameraRenderingHelper.cs" t="Include" />
+            <e p="ARConfigChanger.cs" t="Include" />
+            <e p="ARFeaturePointRenderer.cs" t="Include" />
+            <e p="ARImageDetectionManager.cs" t="Include" />
+            <e p="ARNetworkingManager.cs" t="Include" />
+            <e p="ARNetworkingStateVisualizer.cs" t="Include" />
+            <e p="ARRenderingManager.cs" t="Include" />
+            <e p="ARSemanticSegmentationManager.cs" t="Include" />
+            <e p="ARSessionListener.cs" t="Include" />
+            <e p="ARSessionManager.cs" t="Include" />
+            <e p="ARVideoFeed.cs" t="Include" />
+            <e p="CapabilityChecker.cs" t="Include" />
+            <e p="Depth" t="Include">
+              <e p="ARDepthInterpolationAdapter.cs" t="Include" />
+              <e p="ARDepthManager.cs" t="Include" />
+              <e p="DepthMeshOcclusionManager.cs" t="Include" />
+              <e p="DepthPointCloudManager.cs" t="Include" />
+            </e>
+            <e p="FeaturePreloadManager.cs" t="Include" />
+            <e p="Localization" t="Include">
+              <e p="LocalizationAttemptManager.cs" t="Include" />
+              <e p="LocalizationEventManager.cs" t="Include" />
+            </e>
+            <e p="MapVisualization" t="Include">
+              <e p="ARMapController.cs" t="Include" />
+              <e p="ARMapVisualizationRenderer.cs" t="Include" />
+              <e p="IMapVisualizationController.cs" t="Include" />
+            </e>
+            <e p="MarkerSync" t="Include">
+              <e p="BarcodeDisplay.cs" t="Include" />
+            </e>
+            <e p="Meshing" t="Include">
+              <e p="ARMeshManager.cs" t="Include" />
+              <e p="Materials" t="Include">
+                <e p="MeshInvisible.shader" t="Include" />
+                <e p="MeshNormal.shader" t="Include" />
+                <e p="MeshNormalFresnel.shader" t="Include" />
+              </e>
+              <e p="MeshObjectsClearedArgs.cs" t="Include" />
+              <e p="MeshObjectsGenerator.cs" t="Include" />
+              <e p="MeshObjectsUpdatedArgs.cs" t="Include" />
+              <e p="MeshObjSaver.cs" t="Include" />
+              <e p="MeshSaver.cs" t="Include" />
+              <e p="MockMeshInfo.cs" t="Include" />
+            </e>
+            <e p="NetworkSessionManager.cs" t="Include" />
+            <e p="Permissions" t="Include">
+              <e p="AndroidPermissionManager.cs" t="Include" />
+              <e p="AndroidPermissionRequester.cs" t="Include" />
+            </e>
+            <e p="Planefinding" t="Include">
+              <e p="ARPlaneManager.cs" t="Include" />
+              <e p="PlanefindingGrid.cs" t="Include" />
+              <e p="PlanefindingGrid.shader" t="Include" />
+            </e>
+            <e p="SavedRenderingSettings.cs" t="Include" />
+            <e p="UnityLifecycleDriver.cs" t="Include" />
+          </e>
+          <e p="External" t="Include">
+            <e p="EnumFlagAttribute.cs" t="Include" />
+            <e p="EnumFlagDrawer.cs" t="Include" />
+          </e>
+          <e p="Internals" t="Include">
+            <e p="_ARDKLibrary.cs" t="Include" />
+            <e p="EditorUtilities" t="Include">
+              <e p="_AutofillAttribute.cs" t="Include" />
+              <e p="_AutofillDrawer.cs" t="Include" />
+            </e>
+            <e p="StartupSystems.cs" t="Include" />
+          </e>
+          <e p="LocationService" t="Include">
+            <e p="_NativeLocationServiceAdapter.cs" t="Include" />
+            <e p="CompassUpdatedArgs.cs" t="Include" />
+            <e p="ILocationService.cs" t="Include" />
+            <e p="LocationServiceStatus.cs" t="Include" />
+            <e p="LocationStatusUpdatedArgs.cs" t="Include" />
+            <e p="LocationUpdatedArgs.cs" t="Include" />
+            <e p="SpoofLocationService.cs" t="Include" />
+            <e p="UnityLocationService.cs" t="Include" />
+          </e>
+          <e p="Networking" t="Include">
+            <e p="_NativeMultipeerNetworking.cs" t="Include" />
+            <e p="_Peer.cs" t="Include" />
+            <e p="ARSim" t="Include">
+              <e p="ArmMessageStream.cs" t="Include" />
+              <e p="IArmMessageStream.cs" t="Include" />
+              <e p="Spawning" t="Include">
+                <e p="AddressablePrefabManifest.cs" t="Include" />
+                <e p="GameObjectSpawning" t="Include">
+                  <e p="IGameObjectInstantiator.cs" t="Include" />
+                  <e p="UnityGameObjectInstantiator.cs" t="Include" />
+                </e>
+                <e p="IAddressablePrefabManifest.cs" t="Include" />
+                <e p="IServerAuthoritativeSpawner.cs" t="Include" />
+                <e p="ServerAuthoritativeSpawnerBase.cs" t="Include" />
+                <e p="ServerSpawningEventArgs" t="Include">
+                  <e p="ServerDespawnedArgs.cs" t="Include" />
+                  <e p="ServerSpawnedArgs.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Authentication" t="Include">
+              <e p="ARDKAuthRegistrar.cs" t="Include" />
+            </e>
+            <e p="Clock" t="Include">
+              <e p="_NativeCoordinatedClock.cs" t="Include" />
+              <e p="ICoordinatedClock.cs" t="Include" />
+              <e p="LocalCoordinatedClock.cs" t="Include" />
+            </e>
+            <e p="DataInfo.cs" t="Include" />
+            <e p="HLAPI" t="Include">
+              <e p="Authority" t="Include">
+                <e p="GreedyAuthorityReplicator.cs" t="Include" />
+                <e p="IAuthorityReplicator.cs" t="Include" />
+                <e p="Role.cs" t="Include" />
+              </e>
+              <e p="Data" t="Include">
+                <e p="NetworkedDataDescriptor.cs" t="Include" />
+                <e p="PacketInfo.cs" t="Include" />
+                <e p="ReplicationMode.cs" t="Include" />
+              </e>
+              <e p="HlapiSession.cs" t="Include" />
+              <e p="IHlapiSession.cs" t="Include" />
+              <e p="INetworkedDataHandler.cs" t="Include" />
+              <e p="INetworkGroup.cs" t="Include" />
+              <e p="NetworkedDataHandlerBase.cs" t="Include" />
+              <e p="NetworkGroup.cs" t="Include" />
+              <e p="Object" t="Include">
+                <e p="IMessageStreamReplicator.cs" t="Include" />
+                <e p="INetworkedField.cs" t="Include" />
+                <e p="MessageReceivedEventArgs.cs" t="Include" />
+                <e p="MessageStreamReplicator.cs" t="Include" />
+                <e p="NetworkedField.cs" t="Include" />
+                <e p="NetworkedFieldValueChangedEventArgs.cs" t="Include" />
+                <e p="NetworkedFieldValueChangedMode.cs" t="Include" />
+                <e p="Unity" t="Include">
+                  <e p="AuthBehaviour.cs" t="Include" />
+                  <e p="Helpers" t="Include">
+                    <e p="NetworkedUnityObjectEditor.cs" t="Include" />
+                  </e>
+                  <e p="NetTransform.cs" t="Include" />
+                  <e p="NetworkedBehaviour.cs" t="Include" />
+                  <e p="NetworkedUnityObject.cs" t="Include" />
+                  <e p="NetworkSceneSpawnManifest.cs" t="Include" />
+                  <e p="NetworkSpawner.cs" t="Include" />
+                  <e p="PrefabManifest.cs" t="Include" />
+                </e>
+                <e p="UnreliableBroadcastTransformPacker.cs" t="Include" />
+              </e>
+              <e p="Routing" t="Include">
+                <e p="NetworkId.cs" t="Include" />
+              </e>
+            </e>
+            <e p="IMultipeerNetworking.cs" t="Include" />
+            <e p="IPeer.cs" t="Include" />
+            <e p="MultipeerNetworkingEventArgs" t="Include">
+              <e p="AnyMultipeerNetworkingInitializedArgs.cs" t="Include" />
+              <e p="ConnectedArgs.cs" t="Include" />
+              <e p="ConnectionFailedArgs.cs" t="Include" />
+              <e p="DataReceivedFromArmArgs.cs" t="Include" />
+              <e p="DeinitializedArgs.cs" t="Include" />
+              <e p="DisconnectedArgs.cs" t="Include" />
+              <e p="PeerAddedArgs.cs" t="Include" />
+              <e p="PeerDataReceivedArgs.cs" t="Include" />
+              <e p="PeerRemovedArgs.cs" t="Include" />
+              <e p="PersistentKeyValueUpdatedArgs.cs" t="Include" />
+              <e p="SessionResultReceivedFromArmArgs.cs" t="Include" />
+              <e p="SessionStatusReceivedFromArmArgs.cs" t="Include" />
+            </e>
+            <e p="MultipeerNetworkingFactory.cs" t="Include" />
+            <e p="NetworkingErrorCode.cs" t="Include" />
+            <e p="NetworkMessageSizeLimits.cs" t="Include" />
+            <e p="ServerConfiguration.cs" t="Include" />
+            <e p="TransportType.cs" t="Include" />
+          </e>
+          <e p="Plugins" t="Include">
+            <e p="unity_exports" t="Include">
+              <e p="ardk_client_platform" t="Include">
+                <e p="libs" t="Include">
+                  <e p="grapeshot_unity_application" t="Include">
+                    <e p="cs_helpers" t="Include">
+                      <e p="TableUtils.cs" t="Include" />
+                    </e>
+                    <e p="FlatBuffers" t="Include">
+                      <e p="ByteBuffer.cs" t="Include" />
+                      <e p="ByteBufferUtil.cs" t="Include" />
+                      <e p="FlatBufferBuilder.cs" t="Include" />
+                      <e p="FlatBufferConstants.cs" t="Include" />
+                      <e p="IFlatbufferObject.cs" t="Include" />
+                      <e p="Offset.cs" t="Include" />
+                      <e p="Properties" t="Include">
+                        <e p="AssemblyInfo.cs" t="Include" />
+                      </e>
+                      <e p="Struct.cs" t="Include" />
+                      <e p="Table.cs" t="Include" />
+                    </e>
+                    <e p="grapeshot_unity_application" t="Include">
+                      <e p="ApplicationChunkFetcher_FunctionApplicationBridge.cs" t="Include" />
+                      <e p="ApplicationChunkFetcher_FunctionApplicationBridgeBase.cs" t="Include" />
+                      <e p="ApplicationRate.cs" t="Include" />
+                      <e p="ChunkFetcherParams.cs" t="Include" />
+                      <e p="Driver.cs" t="Include" />
+                      <e p="FBIntermediateBuffer.cs" t="Include" />
+                      <e p="FinishedCallback_FunctionApplicationBridge.cs" t="Include" />
+                      <e p="FinishedCallback_FunctionApplicationBridgeBase.cs" t="Include" />
+                      <e p="FuncRateTicket.cs" t="Include" />
+                      <e p="FuncRateTicketCallback_FunctionApplicationBridge.cs" t="Include" />
+                      <e p="FuncRateTicketCallback_FunctionApplicationBridgeBase.cs" t="Include" />
+                      <e p="GrapeshotApplicationRate.cs" t="Include" />
+                      <e p="GrapeshotApplicationRatePINVOKE.cs" t="Include" />
+                      <e p="GrapeshotBackendTopology.cs" t="Include" />
+                      <e p="GrapeshotBackendTopologyPINVOKE.cs" t="Include" />
+                      <e p="GrapeshotDriver.cs" t="Include" />
+                      <e p="GrapeshotDriverPINVOKE.cs" t="Include" />
+                      <e p="GrapeshotFuncRateTicket.cs" t="Include" />
+                      <e p="GrapeshotFuncRateTicketPINVOKE.cs" t="Include" />
+                      <e p="GrapeshotMultiRate.cs" t="Include" />
+                      <e p="GrapeshotMultiRatePINVOKE.cs" t="Include" />
+                      <e p="GrapeshotRate.cs" t="Include" />
+                      <e p="GrapeshotRatePINVOKE.cs" t="Include" />
+                      <e p="GrapeshotSession.cs" t="Include" />
+                      <e p="GrapeshotSessionPINVOKE.cs" t="Include" />
+                      <e p="GrapeshotUploadFlatbuffers.cs" t="Include" />
+                      <e p="GrapeshotUploadFlatbuffersPINVOKE.cs" t="Include" />
+                      <e p="GrapeshotUploadSessionDBAccessor.cs" t="Include" />
+                      <e p="GrapeshotUploadSessionDBAccessorPINVOKE.cs" t="Include" />
+                      <e p="InterprocDriver.cs" t="Include" />
+                      <e p="LocalUploadSessionDBAccessor.cs" t="Include" />
+                      <e p="MultiRate.cs" t="Include" />
+                      <e p="PendingBytesRate.cs" t="Include" />
+                      <e p="Rate.cs" t="Include" />
+                      <e p="RateTicket.cs" t="Include" />
+                      <e p="RateTicketReturn.cs" t="Include" />
+                      <e p="RateVector.cs" t="Include" />
+                      <e p="RequestCallback_FunctionApplicationBridge.cs" t="Include" />
+                      <e p="RequestCallback_FunctionApplicationBridgeBase.cs" t="Include" />
+                      <e p="ResponseCallback_FunctionApplicationBridge.cs" t="Include" />
+                      <e p="ResponseCallback_FunctionApplicationBridgeBase.cs" t="Include" />
+                      <e p="RORStage.cs" t="Include" />
+                      <e p="RORStagePINVOKE.cs" t="Include" />
+                      <e p="Session.cs" t="Include" />
+                      <e p="StageNamedInstance.cs" t="Include" />
+                      <e p="Topology.cs" t="Include" />
+                      <e p="UnlimitedRate.cs" t="Include" />
+                      <e p="UploadAuth_Ret.cs" t="Include" />
+                      <e p="UploadChunkBody_Ret.cs" t="Include" />
+                      <e p="UploadChunkRequest_Ret.cs" t="Include" />
+                      <e p="UploadServiceInfo_Ret.cs" t="Include" />
+                      <e p="UploadSessionDBAccessor.cs" t="Include" />
+                    </e>
+                    <e p="LibraryHelper.cs" t="Include" />
+                    <e p="services" t="Include">
+                      <e p="BackendTopology.cs" t="Include" />
+                      <e p="GcsInfoProvider.cs" t="Include" />
+                      <e p="GcsSignedUrlUploadService.cs" t="Include" />
+                      <e p="GrapeshotSession.cs" t="Include" />
+                      <e p="GrapeshotUploadChunkResponse.cs" t="Include" />
+                      <e p="GrapeshotUploadData.cs" t="Include" />
+                      <e p="MockBackendTopology.cs" t="Include" />
+                      <e p="MockGrapeshotSession.cs" t="Include" />
+                      <e p="MockGrapeshotUploadChunkResponse.cs" t="Include" />
+                      <e p="MockGrapeshotUploadData.cs" t="Include" />
+                    </e>
+                    <e p="unity_ext" t="Include">
+                      <e p="WifiOnlyRate.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="ror_upload_schema_unity" t="Include">
+                    <e p="ror_upload_schema_unity" t="Include">
+                      <e p="schema" t="Include">
+                        <e p="ror" t="Include">
+                          <e p="schema" t="Include">
+                            <e p="UUID.cs" t="Include" />
+                          </e>
+                        </e>
+                        <e p="upload" t="Include">
+                          <e p="ror" t="Include">
+                            <e p="schema" t="Include">
+                              <e p="upload" t="Include">
+                                <e p="Anonymous.cs" t="Include" />
+                                <e p="ChunkStatus.cs" t="Include" />
+                                <e p="GCSServiceAccount.cs" t="Include" />
+                                <e p="GCSServiceInfo.cs" t="Include" />
+                                <e p="GCSSignedAuth.cs" t="Include" />
+                                <e p="GCSSignedComposeURL.cs" t="Include" />
+                                <e p="GCSSignedWriteURL.cs" t="Include" />
+                                <e p="ServiceAuths.cs" t="Include" />
+                                <e p="ServiceInfos.cs" t="Include" />
+                                <e p="SessionStatus.cs" t="Include" />
+                                <e p="UploadAuth.cs" t="Include" />
+                                <e p="UploadChunkBody.cs" t="Include" />
+                                <e p="UploadChunkInfo.cs" t="Include" />
+                                <e p="UploadChunkRequest.cs" t="Include" />
+                                <e p="UploadChunkResponse.cs" t="Include" />
+                                <e p="UploadServiceInfo.cs" t="Include" />
+                                <e p="UploadSessionInfo.cs" t="Include" />
+                              </e>
+                            </e>
+                          </e>
+                        </e>
+                      </e>
+                    </e>
+                  </e>
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="Properties" t="Include">
+            <e p="AssemblyInfo.cs" t="Include" />
+          </e>
+          <e p="Recording" t="Include">
+            <e p="ARCapture.cs" t="Include" />
+            <e p="ARCaptureConfig.cs" t="Include" />
+            <e p="ARCaptureSetMetadataConfig.cs" t="Include" />
+            <e p="ArchiveConfig.cs" t="Include" />
+            <e p="AREncodingConfig.cs" t="Include" />
+            <e p="ARRecorderConfig.cs" t="Include" />
+            <e p="ARRecorderFactory.cs" t="Include" />
+            <e p="ARRecordingPreviewConfig.cs" t="Include" />
+            <e p="ARRecordingPreviewResults.cs" t="Include" />
+            <e p="ARRecordingResearchConfig.cs" t="Include" />
+            <e p="ARRecordingResearchResults.cs" t="Include" />
+            <e p="ARRecordingStatus.cs" t="Include" />
+            <e p="ARRecordingUnpackConfig.cs" t="Include" />
+            <e p="ARRecordingUnpackResults.cs" t="Include" />
+            <e p="ARSetApplicationInfoConfig.cs" t="Include" />
+            <e p="ARSetPointOfInterestConfig.cs" t="Include" />
+            <e p="IARRecorder.cs" t="Include" />
+            <e p="NativeARRecorder.cs" t="Include" />
+            <e p="RecordingVideoFormat.cs" t="Include" />
+          </e>
+          <e p="Rendering" t="Include">
+            <e p="_VirtualCamera.cs" t="Include" />
+            <e p="_VirtualCameraFactory.cs" t="Include" />
+            <e p="ARFrameRendererFactory.cs" t="Include" />
+            <e p="ARSessionBuffersHelper.cs" t="Include" />
+            <e p="FrameRenderer" t="Include">
+              <e p="_ARCoreFrameRenderer.cs" t="Include" />
+              <e p="_ARKitFrameRenderer.cs" t="Include" />
+              <e p="_ARPlaybackFrameRenderer.cs" t="Include" />
+              <e p="_MockFrameRenderer.cs" t="Include" />
+              <e p="_RemoteFrameRenderer.cs" t="Include" />
+              <e p="ARFrameRenderer.cs" t="Include" />
+              <e p="IARFrameRenderer.cs" t="Include" />
+            </e>
+            <e p="PropertyBindings.cs" t="Include" />
+            <e p="RenderFeatureProvider" t="Include">
+              <e p="ARRenderFeatureProvider.cs" t="Include" />
+              <e p="IRenderFeatureProvider.cs" t="Include" />
+            </e>
+            <e p="RenderTarget.cs" t="Include" />
+            <e p="ResolutionMode.cs" t="Include" />
+            <e p="Resources" t="Include">
+              <e p="ARCoreFrame.shader" t="Include" />
+              <e p="ARCoreFrameBiplanar.shader" t="Include" />
+              <e p="ARCoreFrameLegacy.shader" t="Include" />
+              <e p="ARKitFrame.shader" t="Include" />
+              <e p="BGRANonOESShader.shader" t="Include" />
+              <e p="BGRAShader.shader" t="Include" />
+              <e p="EditorFrame.shader" t="Include" />
+              <e p="ExternalBlit.shader" t="Include" />
+              <e p="YCbCrShader.shader" t="Include" />
+            </e>
+            <e p="SRP" t="Include">
+              <e p="_CommandBufferPass.cs" t="Include" />
+              <e p="_RenderPipelineInternals.cs" t="Include" />
+              <e p="ARSessionFeature.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Utilities" t="Include">
+            <e p="_ByteArrayComparer.cs" t="Include" />
+            <e p="_CallbackQueue.cs" t="Include" />
+            <e p="_CatchUpEvent.cs" t="Include" />
+            <e p="_FriendTypeAsserter.cs" t="Include" />
+            <e p="_GcObserver.cs" t="Include" />
+            <e p="_KeyValuePair.cs" t="Include" />
+            <e p="_Memory.cs" t="Include" />
+            <e p="_ReferenceComparer.cs" t="Include" />
+            <e p="_StaticMembersValidatorScope.cs" t="Include" />
+            <e p="_StaticMemberValidator.cs" t="Include" />
+            <e p="_ThreadCheckedObject.cs" t="Include" />
+            <e p="_UpdateLoop.cs" t="Include" />
+            <e p="ArdkEventHandler.cs" t="Include" />
+            <e p="BinarySerialization" t="Include">
+              <e p="BinaryDeserializer.cs" t="Include" />
+              <e p="BinarySerializer.cs" t="Include" />
+              <e p="BinarySerializerOrDeserializer.cs" t="Include" />
+              <e p="Contexts" t="Include">
+                <e p="_TypeDeserializationContext.cs" t="Include" />
+                <e p="_TypeSerializationContext.cs" t="Include" />
+                <e p="ArrayLengthLimiter.cs" t="Include" />
+              </e>
+              <e p="GlobalSerializer.cs" t="Include" />
+              <e p="IItemSerializer.cs" t="Include" />
+              <e p="ISerializationContext.cs" t="Include" />
+              <e p="ItemSerializers" t="Include">
+                <e p="_UntypedToTypedSerializerAdapter.cs" t="Include" />
+                <e p="ArrayOfSealedSerializer.cs" t="Include" />
+                <e p="ArrayOfUnsealedSerializer.cs" t="Include" />
+                <e p="ArraySerializer.cs" t="Include" />
+                <e p="BaseItemSerializer.cs" t="Include" />
+                <e p="BooleanArraySerializer.cs" t="Include" />
+                <e p="BooleanSerializer.cs" t="Include" />
+                <e p="ByteArraySerializer.cs" t="Include" />
+                <e p="ByteSerializer.cs" t="Include" />
+                <e p="CameraIntrinsicsSerializer.cs" t="Include" />
+                <e p="ColorSerializer.cs" t="Include" />
+                <e p="CompressedInt32Serializer.cs" t="Include" />
+                <e p="CompressedInt64Serializer.cs" t="Include" />
+                <e p="CompressedUInt32Serializer.cs" t="Include" />
+                <e p="CompressedUInt64Serializer.cs" t="Include" />
+                <e p="DoubleSerializer.cs" t="Include" />
+                <e p="EnumSerializer.cs" t="Include" />
+                <e p="FloatSerializer.cs" t="Include" />
+                <e p="GuidSerializer.cs" t="Include" />
+                <e p="Int16Serializer.cs" t="Include" />
+                <e p="IntPtrSerializer.cs" t="Include" />
+                <e p="Matrix4x4Serializer.cs" t="Include" />
+                <e p="NativeArraySerializer.cs" t="Include" />
+                <e p="NetworkIdSerializer.cs" t="Include" />
+                <e p="QuaternionSerializer.cs" t="Include" />
+                <e p="ResolutionSerializer.cs" t="Include" />
+                <e p="SByteSerializer.cs" t="Include" />
+                <e p="SimpleSerializableSerializer.cs" t="Include" />
+                <e p="StringSerializer.cs" t="Include" />
+                <e p="UInt16Serializer.cs" t="Include" />
+                <e p="Vector2Serializer.cs" t="Include" />
+                <e p="Vector3Serializer.cs" t="Include" />
+                <e p="Vector4Serializer.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Collections" t="Include">
+              <e p="_ArrayFromElement.cs" t="Include" />
+              <e p="_EmptyReadOnlyDictionary.cs" t="Include" />
+              <e p="_ReadOnlyCollectionExtensions.cs" t="Include" />
+              <e p="_ReadOnlyDictionary.cs" t="Include" />
+              <e p="_WeakValueDictionary.cs" t="Include" />
+              <e p="ARDKReadOnlyCollection.cs" t="Include" />
+              <e p="EmptyArdkReadOnlyCollection.cs" t="Include" />
+              <e p="EmptyArray.cs" t="Include" />
+              <e p="EmptyReadOnlyCollection.cs" t="Include" />
+            </e>
+            <e p="Extensions" t="Include">
+              <e p="_DictionaryExtensions.cs" t="Include" />
+              <e p="_GuidExtensions.cs" t="Include" />
+              <e p="_ObjectSerializationExtensions.cs" t="Include" />
+              <e p="_StreamExtensions.cs" t="Include" />
+              <e p="_TextureExtensions.cs" t="Include" />
+            </e>
+            <e p="Logging" t="Include">
+              <e p="ARLog.cs" t="Include" />
+              <e p="LogHandler" t="Include">
+                <e p="IARLogHandler.cs" t="Include" />
+                <e p="UnityARLogHandler.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Marker" t="Include">
+              <e p="ImageDataUtils.cs" t="Include" />
+              <e p="Metadata" t="Include">
+                <e p="BasicMetadataSerializer.cs" t="Include" />
+                <e p="EmbeddedStationaryMetadataSerializer.cs" t="Include" />
+                <e p="IMetadataSerializer.cs" t="Include" />
+                <e p="MarkerMetadata.cs" t="Include" />
+                <e p="StationaryMarkerMetadata.cs" t="Include" />
+              </e>
+              <e p="Parser" t="Include">
+                <e p="BarcodeParserResult.cs" t="Include" />
+                <e p="IMarkerParser.cs" t="Include" />
+                <e p="IParserResult.cs" t="Include" />
+                <e p="ZXingBarcodeParser.cs" t="Include" />
+              </e>
+              <e p="Scanner" t="Include">
+                <e p="ARFrameMarkerScanner.cs" t="Include" />
+                <e p="ARFrameMarkerScannerGotResultArgs.cs" t="Include" />
+                <e p="ARFrameMarkerScannerReadyArgs.cs" t="Include" />
+                <e p="ARFrameMarkerScannerStatusChangedArgs.cs" t="Include" />
+                <e p="IMarkerScanner.cs" t="Include" />
+                <e p="MarkerScannerSettings.cs" t="Include" />
+                <e p="MarkerScannerStatus.cs" t="Include" />
+              </e>
+              <e p="ZXingMarkerGenerator.cs" t="Include" />
+            </e>
+            <e p="MathUtils.cs" t="Include" />
+            <e p="MatrixUtils.cs" t="Include" />
+            <e p="NARConversions.cs" t="Include" />
+            <e p="Optional.cs" t="Include" />
+            <e p="Platform.cs" t="Include" />
+            <e p="PlatformAgnosticInput.cs" t="Include" />
+            <e p="Preloading" t="Include">
+              <e p="_MockFeaturePreloader.cs" t="Include" />
+              <e p="_NativeFeaturePreloader.cs" t="Include" />
+              <e p="Feature.cs" t="Include" />
+              <e p="FeaturePreloaderFactory.cs" t="Include" />
+              <e p="IFeaturePreloader.cs" t="Include" />
+              <e p="PreloadedFeatureState.cs" t="Include" />
+            </e>
+            <e p="SafeGCHandle.cs" t="Include" />
+            <e p="TypedId" t="Include">
+              <e p="IRepresentedBy.cs" t="Include" />
+              <e p="TypedId.cs" t="Include" />
+            </e>
+            <e p="VersionUtilities" t="Include">
+              <e p="_IARDKVersion.cs" t="Include" />
+              <e p="_NativeARDKVersion.cs" t="Include" />
+              <e p="ARDKGlobalVersion.cs" t="Include" />
+            </e>
+          </e>
+          <e p="VirtualStudio" t="Include">
+            <e p="_VirtualStudioManager.cs" t="Include" />
+            <e p="AR" t="Include">
+              <e p="_IEditorARSessionMediator.cs" t="Include" />
+              <e p="_IMockARSession.cs" t="Include" />
+              <e p="_MockARSession.cs" t="Include" />
+              <e p="_MockARSessionMediator.cs" t="Include" />
+              <e p="_RemoteEditorARSession.cs" t="Include" />
+              <e p="Camera" t="Include">
+                <e p="_ICameraController.cs" t="Include" />
+                <e p="_MockCameraConfiguration.cs" t="Include" />
+                <e p="_MockCameraController.cs" t="Include" />
+                <e p="_MockFrameBufferProvider.cs" t="Include" />
+                <e p="Resources" t="Include">
+                  <e p="Segmentation.shader" t="Include" />
+                  <e p="UnityToMetricDepth.shader" t="Include" />
+                </e>
+              </e>
+              <e p="IMockARSession.cs" t="Include" />
+              <e p="Networking" t="Include">
+                <e p="_IEditorARNetworkingSessionMediator.cs" t="Include" />
+                <e p="_MockARNetworking.cs" t="Include" />
+                <e p="_MockARNetworkingSessionsMediator.cs" t="Include" />
+                <e p="_RemoteEditorARNetworking.cs" t="Include" />
+                <e p="IMockARNetworking.cs" t="Include" />
+              </e>
+              <e p="SceneComponents" t="Include">
+                <e p="MockAnchorBase.cs" t="Include" />
+                <e p="MockDetectableBase.cs" t="Include" />
+                <e p="MockLocalizationUpdate.cs" t="Include" />
+                <e p="MockMap.cs" t="Include" />
+                <e p="MockMesh.cs" t="Include" />
+                <e p="MockMeshSequence.cs" t="Include" />
+                <e p="MockPlaneAnchor.cs" t="Include" />
+                <e p="MockSceneConfiguration.cs" t="Include" />
+                <e p="MockSemanticLabel.cs" t="Include" />
+              </e>
+            </e>
+            <e p="ISessionMediator.cs" t="Include" />
+            <e p="IVirtualStudioManager.cs" t="Include" />
+            <e p="MockArdkPlayerProfile.cs" t="Include" />
+            <e p="MockPlayConfiguration.cs" t="Include" />
+            <e p="MockPlayer.cs" t="Include" />
+            <e p="Networking" t="Include">
+              <e p="_IEditorMultipeerSessionMediator.cs" t="Include" />
+              <e p="_MockMultipeerNetworking.cs" t="Include" />
+              <e p="_MockNetworkingSessionsMediator.cs" t="Include" />
+              <e p="_MockPeer.cs" t="Include" />
+              <e p="_RemoteEditorMultipeerNetworking.cs" t="Include" />
+              <e p="ARSimHandlers" t="Include">
+                <e p="MockARSimBase.cs" t="Include" />
+              </e>
+              <e p="DefaultMessageHandler.cs" t="Include" />
+              <e p="MessageHandlerBase.cs" t="Include" />
+            </e>
+            <e p="Remote" t="Include">
+              <e p="_DeviceHandle.cs" t="Include" />
+              <e p="_EasyConnection.cs" t="Include" />
+              <e p="_InternetRemoteConnection.cs" t="Include" />
+              <e p="_InternetRemoteConnectionCompat.cs" t="Include" />
+              <e p="_IRemoteConnectionCompat.cs" t="Include" />
+              <e p="_LocalDeviceInfo.cs" t="Include" />
+              <e p="_RemoteConnection.cs" t="Include" />
+              <e p="_RemoteConnectionStatus.cs" t="Include" />
+              <e p="_RemoteDeviceRole.cs" t="Include" />
+              <e p="_UsbRemoteConnection.cs" t="Include" />
+              <e p="AR" t="Include">
+                <e p="_RemoteBufferConfiguration.cs" t="Include" />
+                <e p="_RemoteDeviceARSessionConstructor.cs" t="Include" />
+                <e p="_RemoteDeviceARSessionHandler.cs" t="Include" />
+                <e p="Networking" t="Include">
+                  <e p="_RemoteDeviceARNetworkingConstructor.cs" t="Include" />
+                  <e p="_RemoteDeviceARNetworkingHandler.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Data" t="Include">
+                <e p="DeviceToEditor.cs" t="Include" />
+                <e p="EditorToDevice.cs" t="Include" />
+              </e>
+              <e p="Networking" t="Include">
+                <e p="_RemoteDeviceMultipeerNetworkingConstructor.cs" t="Include" />
+                <e p="_RemoteDeviceMultipeerNetworkingHandler.cs" t="Include" />
+              </e>
+              <e p="RemoteConnectionUI.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ARDKExamples" t="Include">
+          <e p="AnchorsWithoutPlanes" t="Include">
+            <e p="AnchorsWithoutPlanesExampleManager.cs" t="Include" />
+          </e>
+          <e p="ARDK-Examples.asmdef" t="Include" />
+          <e p="ARNetworking" t="Include">
+            <e p="ARNetworkingExampleManager.cs" t="Include" />
+          </e>
+          <e p="Common" t="Include">
+            <e p="Helpers" t="Include">
+              <e p="AR" t="Include">
+                <e p="ARAnchorAttached.cs" t="Include" />
+                <e p="ARCursorRenderer.cs" t="Include" />
+                <e p="ARHitTester.cs" t="Include" />
+              </e>
+              <e p="Networking" t="Include">
+                <e p="NetworkStatus.cs" t="Include" />
+                <e p="PeerPoseVisualizer.cs" t="Include" />
+                <e p="PlayerColor.cs" t="Include" />
+                <e p="SendDebugMessageHelper.cs" t="Include" />
+                <e p="SessionIDField.cs" t="Include" />
+                <e p="SessionIDGenerator.cs" t="Include" />
+                <e p="SessionStartGatekeeper.cs" t="Include" />
+                <e p="SyncStateHelpText.cs" t="Include" />
+                <e p="SyncStateTrackedPeer.cs" t="Include" />
+                <e p="SyncStateTrackingList.cs" t="Include" />
+                <e p="SyncStatusDisplay.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Logging" t="Include">
+              <e p="ScrollingLog.cs" t="Include" />
+            </e>
+            <e p="Prefabs" t="Include">
+              <e p="Yeti" t="Include">
+                <e p="Source" t="Include">
+                  <e p="Shadow" t="Include">
+                    <e p="ShadowBlit.shader" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="ContextAwareness" t="Include">
+            <e p="Depth" t="Include">
+              <e p="DepthExampleManager.cs" t="Include" />
+            </e>
+            <e p="Meshing" t="Include">
+              <e p="MeshingExampleManager.cs" t="Include" />
+              <e p="MeshingSemanticsExampleManager.cs" t="Include" />
+            </e>
+            <e p="Navigation" t="Include">
+              <e p="Gameboard" t="Include">
+                <e p="AgentConfiguration.cs" t="Include" />
+                <e p="BoardConfiguration.cs" t="Include" />
+                <e p="Bounds.cs" t="Include" />
+                <e p="GameBoard.cs" t="Include" />
+                <e p="GridNode.cs" t="Include" />
+                <e p="IGameBoard.cs" t="Include" />
+                <e p="PathFindingBehaviour.cs" t="Include" />
+                <e p="PathNode.cs" t="Include" />
+                <e p="Quad.cs" t="Include" />
+                <e p="SpatialTree.cs" t="Include" />
+                <e p="Surface.cs" t="Include" />
+                <e p="Utils.cs" t="Include" />
+                <e p="Waypoint.cs" t="Include" />
+              </e>
+              <e p="GameboardExampleManager.cs" t="Include" />
+              <e p="Il2Cpp" t="Include">
+                <e p="Il2CppSetOptionAttribute.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Occlusion" t="Include">
+              <e p="DepthMeshOcclusionExampleManager.cs" t="Include" />
+            </e>
+            <e p="Segmentation" t="Include">
+              <e p="SemanticSegmentationExampleManager.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ImageDetection" t="Include">
+            <e p="ImageDetectionExampleManager.cs" t="Include" />
+          </e>
+          <e p="Localization" t="Include">
+            <e p="LocalizationExampleManager.cs" t="Include" />
+            <e p="PersistenceManager.cs" t="Include" />
+          </e>
+          <e p="LowLevelNetworking" t="Include">
+            <e p="LowLevelNetworkingExampleManager.cs" t="Include" />
+          </e>
+          <e p="MarkerSync" t="Include">
+            <e p="MarkerMappingManager.cs" t="Include" />
+            <e p="MarkerScanningManager.cs" t="Include" />
+            <e p="MarkerSyncSessionManager.cs" t="Include" />
+          </e>
+          <e p="PersistentKeyValue" t="Include">
+            <e p="PersistentKeyValueExampleManager.cs" t="Include" />
+          </e>
+          <e p="Pong" t="Include">
+            <e p="BallBehaviour.cs" t="Include" />
+            <e p="GameController.cs" t="Include" />
+            <e p="MessagingManager.cs" t="Include" />
+          </e>
+          <e p="PongHLAPI" t="Include">
+            <e p="BallBehaviour.cs" t="Include" />
+            <e p="GameController.cs" t="Include" />
+            <e p="PlayerAvatarBehaviour.cs" t="Include" />
+            <e p="PlayingFieldBehaviour.cs" t="Include" />
+          </e>
+          <e p="Preloading" t="Include">
+            <e p="PreloaderTestManager.cs" t="Include" />
+          </e>
+          <e p="Rendering" t="Include">
+            <e p="ARDepthRenderer.cs" t="Include" />
+            <e p="ARRenderer.cs" t="Include" />
+            <e p="RenderingDemo.cs" t="Include" />
+          </e>
+          <e p="SceneSelector" t="Include">
+            <e p="ReturnToSceneSelector.cs" t="Include" />
+            <e p="SceneSelector.cs" t="Include" />
+          </e>
+          <e p="VirtualStudio" t="Include">
+            <e p="ExampleMessageHandler.cs" t="Include" />
+            <e p="ExamplePlayController.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Fonts" t="Include">
+          <e p="Gotham-FontBetter" t="Include">
+            <e p="Gotham-Font" t="Include">
+              <e p="freefontsfamily.com.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Pacifico" t="Include">
+            <e p="OFL.txt" t="Include" />
+          </e>
+          <e p="Quicksand" t="Include">
+            <e p="OFL.txt" t="Include" />
+            <e p="README.txt" t="Include" />
+          </e>
+        </e>
+        <e p="LeanTween" t="Include">
+          <e p="Editor" t="Include">
+            <e p="LeanTweenDocumentationEditor.cs" t="Include" />
+          </e>
+          <e p="Examples" t="Include">
+            <e p="Archived" t="Include">
+              <e p="2dUnlitWithFade.shader" t="Include" />
+              <e p="OldGUIExamplesCS.cs" t="Include" />
+              <e p="TestingPunch.cs" t="Include" />
+              <e p="TestingRigidbodyCS.cs" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Following.cs" t="Include" />
+              <e p="GeneralAdvancedTechniques.cs" t="Include" />
+              <e p="GeneralBasic.cs" t="Include" />
+              <e p="GeneralBasics2d.cs" t="Include" />
+              <e p="GeneralCameraShake.cs" t="Include" />
+              <e p="GeneralEasingTypes.cs" t="Include" />
+              <e p="GeneralEventsListeners.cs" t="Include" />
+              <e p="GeneralSequencer.cs" t="Include" />
+              <e p="GeneralSimpleUI.cs" t="Include" />
+              <e p="GeneralUISpace.cs" t="Include" />
+              <e p="LogoCinematic.cs" t="Include" />
+              <e p="PathBezier.cs" t="Include" />
+              <e p="PathBezier2d.cs" t="Include" />
+              <e p="PathSpline.cs" t="Include" />
+              <e p="PathSpline2d.cs" t="Include" />
+              <e p="PathSplineEndless.cs" t="Include" />
+              <e p="PathSplinePerformance.cs" t="Include" />
+              <e p="PathSplines.cs" t="Include" />
+              <e p="PathSplineTrack.cs" t="Include" />
+              <e p="TestingUnitTests.cs" t="Include" />
+              <e p="TestingZLegacy.cs" t="Include" />
+              <e p="TestingZLegacyExt.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Framework" t="Include">
+            <e p="LeanAudio.cs" t="Include" />
+            <e p="LeanSmooth.cs" t="Include" />
+            <e p="LeanTest.cs" t="Include" />
+            <e p="LeanTween.cs" t="Include" />
+            <e p="LeanTweenExt.cs" t="Include" />
+            <e p="LTDescr.cs" t="Include" />
+            <e p="LTDescrOptional.cs" t="Include" />
+            <e p="LTSeq.cs" t="Include" />
+          </e>
+          <e p="License.txt" t="Include" />
+          <e p="README.txt" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Soborg 3050 TEXTURES" t="Include">
+            <e p="Textures link.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="CW" t="Include">
+            <e p="LeanCommon" t="Include">
+              <e p="Extras" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="LeanDestroy.cs" t="Include" />
+                  <e p="LeanFormatString.cs" t="Include" />
+                  <e p="LeanPath.cs" t="Include" />
+                  <e p="LeanPlane.cs" t="Include" />
+                  <e p="LeanRoll.cs" t="Include" />
+                  <e p="LeanSelect.cs" t="Include" />
+                  <e p="LeanSelectable.cs" t="Include" />
+                  <e p="LeanSelectableBehaviour.cs" t="Include" />
+                  <e p="LeanSelectableGraphicColor.cs" t="Include" />
+                  <e p="LeanSelectableRendererColor.cs" t="Include" />
+                  <e p="LeanSelectableSpriteRendererColor.cs" t="Include" />
+                  <e p="LeanSpawn.cs" t="Include" />
+                </e>
+              </e>
+              <e p="LeanCommon.asmdef" t="Include" />
+              <e p="package.json" t="Include" />
+              <e p="Required" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="LeanCommon.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="LeanTouch" t="Include">
+              <e p="Examples" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="LeanPulseScale.cs" t="Include" />
+                  <e p="LeanTouchEvents.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Extras" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="LeanDragCamera.cs" t="Include" />
+                  <e p="LeanDragTrail.cs" t="Include" />
+                  <e p="LeanDragTranslate.cs" t="Include" />
+                  <e p="LeanFingerData.cs" t="Include" />
+                  <e p="LeanFingerDown.cs" t="Include" />
+                  <e p="LeanFingerFilter.cs" t="Include" />
+                  <e p="LeanFingerOld.cs" t="Include" />
+                  <e p="LeanFingerSwipe.cs" t="Include" />
+                  <e p="LeanFingerTap.cs" t="Include" />
+                  <e p="LeanFingerUp.cs" t="Include" />
+                  <e p="LeanFingerUpdate.cs" t="Include" />
+                  <e p="LeanPinchScale.cs" t="Include" />
+                  <e p="LeanScreenDepth.cs" t="Include" />
+                  <e p="LeanScreenQuery.cs" t="Include" />
+                  <e p="LeanSelectableByFinger.cs" t="Include" />
+                  <e p="LeanSelectableByFingerBehaviour.cs" t="Include" />
+                  <e p="LeanSelectByFinger.cs" t="Include" />
+                  <e p="LeanSwipeBase.cs" t="Include" />
+                  <e p="LeanTouchSimulator.cs" t="Include" />
+                  <e p="LeanTwistRotate.cs" t="Include" />
+                  <e p="LeanTwistRotateAxis.cs" t="Include" />
+                </e>
+              </e>
+              <e p="LeanTouch.asmdef" t="Include" />
+              <e p="package.json" t="Include" />
+              <e p="Required" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="LeanFinger.cs" t="Include" />
+                  <e p="LeanGesture.cs" t="Include" />
+                  <e p="LeanSnapshot.cs" t="Include" />
+                  <e p="LeanTouch.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="READ ME.txt" t="Include" />
+            <e p="Shared" t="Include">
+              <e p="Common" t="Include">
+                <e p="CW.Common.asmdef" t="Include" />
+                <e p="Examples" t="Include">
+                  <e p="Fonts" t="Include">
+                    <e p="VarelaRound-Regular.txt" t="Include" />
+                  </e>
+                  <e p="Scripts" t="Include">
+                    <e p="CwCameraLook.cs" t="Include" />
+                    <e p="CwCameraMove.cs" t="Include" />
+                    <e p="CwCameraPivot.cs" t="Include" />
+                    <e p="CwDemo.cs" t="Include" />
+                    <e p="CwDemoButton.cs" t="Include" />
+                    <e p="CwDemoButtonBuilder.cs" t="Include" />
+                    <e p="CwDepthTextureMode.cs" t="Include" />
+                    <e p="CwFollow.cs" t="Include" />
+                    <e p="CwInputManager.cs" t="Include" />
+                    <e p="CwLightIntensity.cs" t="Include" />
+                    <e p="CwRotate.cs" t="Include" />
+                  </e>
+                  <e p="Shaders" t="Include">
+                    <e p="RimAlpha.shader" t="Include" />
+                    <e p="RimOpaque.shader" t="Include" />
+                    <e p="Skybox.shader" t="Include" />
+                  </e>
+                </e>
+                <e p="Extras" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="CwChild.cs" t="Include" />
+                    <e p="CwRoot.cs" t="Include" />
+                    <e p="CwSeedAttribute.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Required" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="CwCommon.cs" t="Include" />
+                    <e p="CwEditor.cs" t="Include" />
+                    <e p="CwGuide.cs" t="Include" />
+                    <e p="CwHelper.cs" t="Include" />
+                    <e p="CwInput.cs" t="Include" />
+                    <e p="CwShaderBundle.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="ProceduralUIShapes" t="Include">
+          <e p="Editor" t="Include">
+            <e p="RoundedRectEditor.cs" t="Include" />
+          </e>
+          <e p="RoundedRect.cs" t="Include" />
+          <e p="RoundedRect.shader" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="BillingMode.json" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="ARScene Scripts" t="Include">
+            <e p="ARSceneScript.cs" t="Include" />
+          </e>
+          <e p="ConstantStringStore.cs" t="Include" />
+          <e p="HomeScene Scripts" t="Include">
+            <e p="HomeitemsScript.cs" t="Include" />
+            <e p="HomeNavScript.cs" t="Include" />
+            <e p="HomeScript.cs" t="Include" />
+            <e p="HomesItemsStorage.cs" t="Include" />
+            <e p="HomeTabScript.cs" t="Include" />
+          </e>
+          <e p="ProductScene Scripts" t="Include">
+            <e p="ProductScript.cs" t="Include" />
+          </e>
+          <e p="SplashScreen Scripts" t="Include">
+            <e p="SplashScript.cs" t="Include" />
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Examples &amp; Extras" t="Include">
+            <e p="Fonts" t="Include">
+              <e p="Anton OFL.txt" t="Include" />
+              <e p="Bangers - OFL.txt" t="Include" />
+              <e p="Oswald-Bold - OFL.txt" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Benchmark01.cs" t="Include" />
+              <e p="Benchmark01_UGUI.cs" t="Include" />
+              <e p="Benchmark02.cs" t="Include" />
+              <e p="Benchmark03.cs" t="Include" />
+              <e p="Benchmark04.cs" t="Include" />
+              <e p="CameraController.cs" t="Include" />
+              <e p="ChatController.cs" t="Include" />
+              <e p="DropdownSample.cs" t="Include" />
+              <e p="EnvMapAnimator.cs" t="Include" />
+              <e p="ObjectSpin.cs" t="Include" />
+              <e p="ShaderPropAnimator.cs" t="Include" />
+              <e p="SimpleScript.cs" t="Include" />
+              <e p="SkewTextExample.cs" t="Include" />
+              <e p="TeleType.cs" t="Include" />
+              <e p="TextConsoleSimulator.cs" t="Include" />
+              <e p="TextMeshProFloatingText.cs" t="Include" />
+              <e p="TextMeshSpawner.cs" t="Include" />
+              <e p="TMP_DigitValidator.cs" t="Include" />
+              <e p="TMP_ExampleScript_01.cs" t="Include" />
+              <e p="TMP_FrameRateCounter.cs" t="Include" />
+              <e p="TMP_PhoneNumberValidator.cs" t="Include" />
+              <e p="TMP_TextEventCheck.cs" t="Include" />
+              <e p="TMP_TextEventHandler.cs" t="Include" />
+              <e p="TMP_TextInfoDebugTool.cs" t="Include" />
+              <e p="TMP_TextSelector_A.cs" t="Include" />
+              <e p="TMP_TextSelector_B.cs" t="Include" />
+              <e p="TMP_UiFrameRateCounter.cs" t="Include" />
+              <e p="TMPro_InstructionOverlay.cs" t="Include" />
+              <e p="VertexColorCycler.cs" t="Include" />
+              <e p="VertexJitter.cs" t="Include" />
+              <e p="VertexShakeA.cs" t="Include" />
+              <e p="VertexShakeB.cs" t="Include" />
+              <e p="VertexZoom.cs" t="Include" />
+              <e p="WarpTextExample.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+            <e p="EmojiOne.json" t="Include" />
+          </e>
+        </e>
+        <e p="UI Gradient" t="Include">
+          <e p="SetDirty.cs" t="Include" />
+          <e p="UICornersGradient.cs" t="Include" />
+          <e p="UIGradient.cs" t="Include" />
+          <e p="UIGradientUtils.cs" t="Include" />
+          <e p="UITextCornersGradient.cs" t="Include" />
+          <e p="UITextGradient.cs" t="Include" />
+        </e>
+        <e p="UIs" t="Include">
+          <e p="SplashScreenUI.uxml" t="Include" />
+        </e>
+      </e>
+      <e p="CW.Common.csproj" t="IncludeRecursive" />
+      <e p="FurnishAR.sln" t="IncludeFlat" />
+      <e p="LeanCommon.csproj" t="IncludeRecursive" />
+      <e p="LeanTouch.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

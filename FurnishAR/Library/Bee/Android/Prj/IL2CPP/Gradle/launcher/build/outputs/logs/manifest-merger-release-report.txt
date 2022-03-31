@@ -1,0 +1,322 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+MERGED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-74:12
+MERGED from [:UnityAds:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\0cef66a34e96d35a0c7bb325e99aa78e\AndroidManifest.xml:2:1-35:12
+MERGED from [:billing-3.0.3:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\82541cb53330b39edc357f649d4b4273\AndroidManifest.xml:2:1-24:12
+MERGED from [:UnityAdsAndroidPlugin:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\bab2abd397a8575aad7fbaf5f768e4e2\AndroidManifest.xml:2:1-11:12
+MERGED from [:common:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\678be5be1095a045b9512c6352934e73\AndroidManifest.xml:2:1-12:12
+MERGED from [:nar-dependencies:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\d132e019afe3246858ec3e8f44773bdb\AndroidManifest.xml:2:1-56:12
+MERGED from [:arcore:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\a0acaf6ed0f20dce2f211bd1b0b34980\AndroidManifest.xml:17:1-46:12
+INJECTED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:70-108
+		INJECTED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:109-155
+	android:versionCode
+		INJECTED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:156-196
+supports-screens
+ADDED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-83
+MERGED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:5-72:19
+MERGED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:5-72:19
+MERGED from [:UnityAds:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\0cef66a34e96d35a0c7bb325e99aa78e\AndroidManifest.xml:12:5-33:19
+MERGED from [:UnityAds:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\0cef66a34e96d35a0c7bb325e99aa78e\AndroidManifest.xml:12:5-33:19
+MERGED from [:billing-3.0.3:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\82541cb53330b39edc357f649d4b4273\AndroidManifest.xml:12:5-22:19
+MERGED from [:billing-3.0.3:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\82541cb53330b39edc357f649d4b4273\AndroidManifest.xml:12:5-22:19
+MERGED from [:common:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\678be5be1095a045b9512c6352934e73\AndroidManifest.xml:9:5-10:19
+MERGED from [:common:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\678be5be1095a045b9512c6352934e73\AndroidManifest.xml:9:5-10:19
+MERGED from [:nar-dependencies:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\d132e019afe3246858ec3e8f44773bdb\AndroidManifest.xml:25:5-54:19
+MERGED from [:nar-dependencies:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\d132e019afe3246858ec3e8f44773bdb\AndroidManifest.xml:25:5-54:19
+MERGED from [:arcore:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\a0acaf6ed0f20dce2f211bd1b0b34980\AndroidManifest.xml:30:5-44:19
+MERGED from [:arcore:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\a0acaf6ed0f20dce2f211bd1b0b34980\AndroidManifest.xml:30:5-44:19
+	android:extractNativeLibs
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:18-50
+	android:supportsRtl
+		ADDED from [:nar-dependencies:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\d132e019afe3246858ec3e8f44773bdb\AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:16-48
+	tools:ignore
+		ADDED from [:nar-dependencies:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\d132e019afe3246858ec3e8f44773bdb\AndroidManifest.xml:29:9-48
+	android:allowBackup
+		ADDED from [:nar-dependencies:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\d132e019afe3246858ec3e8f44773bdb\AndroidManifest.xml:26:9-35
+	android:icon
+		ADDED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-80
+uses-sdk
+INJECTED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [:UnityAds:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\0cef66a34e96d35a0c7bb325e99aa78e\AndroidManifest.xml:5:5-7:41
+MERGED from [:UnityAds:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\0cef66a34e96d35a0c7bb325e99aa78e\AndroidManifest.xml:5:5-7:41
+MERGED from [:billing-3.0.3:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\82541cb53330b39edc357f649d4b4273\AndroidManifest.xml:6:5-8:41
+MERGED from [:billing-3.0.3:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\82541cb53330b39edc357f649d4b4273\AndroidManifest.xml:6:5-8:41
+MERGED from [:UnityAdsAndroidPlugin:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\bab2abd397a8575aad7fbaf5f768e4e2\AndroidManifest.xml:7:5-9:41
+MERGED from [:UnityAdsAndroidPlugin:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\bab2abd397a8575aad7fbaf5f768e4e2\AndroidManifest.xml:7:5-9:41
+MERGED from [:common:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\678be5be1095a045b9512c6352934e73\AndroidManifest.xml:7:5-43
+MERGED from [:common:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\678be5be1095a045b9512c6352934e73\AndroidManifest.xml:7:5-43
+MERGED from [:nar-dependencies:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\d132e019afe3246858ec3e8f44773bdb\AndroidManifest.xml:8:5-10:41
+MERGED from [:nar-dependencies:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\d132e019afe3246858ec3e8f44773bdb\AndroidManifest.xml:8:5-10:41
+MERGED from [:arcore:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\a0acaf6ed0f20dce2f211bd1b0b34980\AndroidManifest.xml:26:5-28:41
+MERGED from [:arcore:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\a0acaf6ed0f20dce2f211bd1b0b34980\AndroidManifest.xml:26:5-28:41
+INJECTED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:19-51
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:14:5-67
+MERGED from [:UnityAds:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\0cef66a34e96d35a0c7bb325e99aa78e\AndroidManifest.xml:10:5-67
+MERGED from [:UnityAds:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\0cef66a34e96d35a0c7bb325e99aa78e\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:5-79
+MERGED from [:UnityAds:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\0cef66a34e96d35a0c7bb325e99aa78e\AndroidManifest.xml:9:5-79
+MERGED from [:UnityAds:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\0cef66a34e96d35a0c7bb325e99aa78e\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:16:22-76
+uses-feature#android.hardware.location.gps
+ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:19:9-53
+uses-feature#android.hardware.location
+ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:9-49
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:28:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:5-32:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:9-55:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:41:13-49
+	android:launchMode
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:13-48
+	android:resizeableActivity
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:13-194
+	android:theme
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:13-54
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:43:13-47:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:49:13-51:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:51:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:52:13-54:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:54:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:9-59:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:58:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:9-62:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:62:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:61:13-47
+meta-data#unity.launch-fullscreen
+ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:63:9-65:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:65:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:64:13-51
+meta-data#unity.allow-resizable-window
+ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:66:9-68:37
+	android:value
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:68:13-34
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:67:13-56
+meta-data#notch.config
+ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:69:9-71:50
+	android:value
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:71:13-47
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Chukwuemeka\Documents\ExtendedReality\GitHub\FurnishAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:70:13-40
+activity#com.unity3d.services.ads.adunit.AdUnitActivity
+ADDED from [:UnityAds:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\0cef66a34e96d35a0c7bb325e99aa78e\AndroidManifest.xml:13:9-17:74
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\0cef66a34e96d35a0c7bb325e99aa78e\AndroidManifest.xml:16:13-47
+	android:configChanges
+		ADDED from [:UnityAds:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\0cef66a34e96d35a0c7bb325e99aa78e\AndroidManifest.xml:15:13-170
+	android:theme
+		ADDED from [:UnityAds:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\0cef66a34e96d35a0c7bb325e99aa78e\AndroidManifest.xml:17:13-71
+	android:name
+		ADDED from [:UnityAds:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\0cef66a34e96d35a0c7bb325e99aa78e\AndroidManifest.xml:14:13-74
+activity#com.unity3d.services.ads.adunit.AdUnitTransparentActivity
+ADDED from [:UnityAds:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\0cef66a34e96d35a0c7bb325e99aa78e\AndroidManifest.xml:18:9-22:86
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\0cef66a34e96d35a0c7bb325e99aa78e\AndroidManifest.xml:21:13-47
+	android:configChanges
+		ADDED from [:UnityAds:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\0cef66a34e96d35a0c7bb325e99aa78e\AndroidManifest.xml:20:13-170
+	android:theme
+		ADDED from [:UnityAds:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\0cef66a34e96d35a0c7bb325e99aa78e\AndroidManifest.xml:22:13-83
+	android:name
+		ADDED from [:UnityAds:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\0cef66a34e96d35a0c7bb325e99aa78e\AndroidManifest.xml:19:13-85
+activity#com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity
+ADDED from [:UnityAds:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\0cef66a34e96d35a0c7bb325e99aa78e\AndroidManifest.xml:23:9-27:86
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\0cef66a34e96d35a0c7bb325e99aa78e\AndroidManifest.xml:26:13-48
+	android:configChanges
+		ADDED from [:UnityAds:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\0cef66a34e96d35a0c7bb325e99aa78e\AndroidManifest.xml:25:13-170
+	android:theme
+		ADDED from [:UnityAds:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\0cef66a34e96d35a0c7bb325e99aa78e\AndroidManifest.xml:27:13-83
+	android:name
+		ADDED from [:UnityAds:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\0cef66a34e96d35a0c7bb325e99aa78e\AndroidManifest.xml:24:13-93
+activity#com.unity3d.services.ads.adunit.AdUnitSoftwareActivity
+ADDED from [:UnityAds:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\0cef66a34e96d35a0c7bb325e99aa78e\AndroidManifest.xml:28:9-32:74
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\0cef66a34e96d35a0c7bb325e99aa78e\AndroidManifest.xml:31:13-48
+	android:configChanges
+		ADDED from [:UnityAds:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\0cef66a34e96d35a0c7bb325e99aa78e\AndroidManifest.xml:30:13-170
+	android:theme
+		ADDED from [:UnityAds:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\0cef66a34e96d35a0c7bb325e99aa78e\AndroidManifest.xml:32:13-71
+	android:name
+		ADDED from [:UnityAds:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\0cef66a34e96d35a0c7bb325e99aa78e\AndroidManifest.xml:29:13-82
+uses-permission#com.android.vending.BILLING
+ADDED from [:billing-3.0.3:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\82541cb53330b39edc357f649d4b4273\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from [:billing-3.0.3:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\82541cb53330b39edc357f649d4b4273\AndroidManifest.xml:10:22-64
+meta-data#com.google.android.play.billingclient.version
+ADDED from [:billing-3.0.3:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\82541cb53330b39edc357f649d4b4273\AndroidManifest.xml:13:9-15:37
+	android:value
+		ADDED from [:billing-3.0.3:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\82541cb53330b39edc357f649d4b4273\AndroidManifest.xml:15:13-34
+	android:name
+		ADDED from [:billing-3.0.3:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\82541cb53330b39edc357f649d4b4273\AndroidManifest.xml:14:13-73
+activity#com.android.billingclient.api.ProxyBillingActivity
+ADDED from [:billing-3.0.3:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\82541cb53330b39edc357f649d4b4273\AndroidManifest.xml:17:9-21:75
+	android:exported
+		ADDED from [:billing-3.0.3:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\82541cb53330b39edc357f649d4b4273\AndroidManifest.xml:20:13-37
+	android:configChanges
+		ADDED from [:billing-3.0.3:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\82541cb53330b39edc357f649d4b4273\AndroidManifest.xml:19:13-96
+	android:theme
+		ADDED from [:billing-3.0.3:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\82541cb53330b39edc357f649d4b4273\AndroidManifest.xml:21:13-72
+	android:name
+		ADDED from [:billing-3.0.3:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\82541cb53330b39edc357f649d4b4273\AndroidManifest.xml:18:13-78
+uses-permission#android.permission.CAMERA
+ADDED from [:nar-dependencies:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\d132e019afe3246858ec3e8f44773bdb\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from [:nar-dependencies:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\d132e019afe3246858ec3e8f44773bdb\AndroidManifest.xml:12:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:nar-dependencies:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\d132e019afe3246858ec3e8f44773bdb\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from [:nar-dependencies:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\d132e019afe3246858ec3e8f44773bdb\AndroidManifest.xml:15:22-77
+uses-feature#android.hardware.camera.ar
+ADDED from [:nar-dependencies:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\d132e019afe3246858ec3e8f44773bdb\AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from [:nar-dependencies:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\d132e019afe3246858ec3e8f44773bdb\AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from [:nar-dependencies:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\d132e019afe3246858ec3e8f44773bdb\AndroidManifest.xml:22:9-50
+activity#com.google.ar.core.InstallActivity
+ADDED from [:nar-dependencies:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\d132e019afe3246858ec3e8f44773bdb\AndroidManifest.xml:32:9-37:46
+MERGED from [:arcore:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\a0acaf6ed0f20dce2f211bd1b0b34980\AndroidManifest.xml:37:9-43:80
+MERGED from [:arcore:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\a0acaf6ed0f20dce2f211bd1b0b34980\AndroidManifest.xml:37:9-43:80
+	android:excludeFromRecents
+		ADDED from [:nar-dependencies:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\d132e019afe3246858ec3e8f44773bdb\AndroidManifest.xml:35:13-46
+	android:launchMode
+		ADDED from [:nar-dependencies:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\d132e019afe3246858ec3e8f44773bdb\AndroidManifest.xml:37:13-43
+	android:exported
+		ADDED from [:nar-dependencies:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\d132e019afe3246858ec3e8f44773bdb\AndroidManifest.xml:36:13-37
+	android:configChanges
+		ADDED from [:nar-dependencies:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\d132e019afe3246858ec3e8f44773bdb\AndroidManifest.xml:34:13-74
+	android:theme
+		ADDED from [:arcore:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\a0acaf6ed0f20dce2f211bd1b0b34980\AndroidManifest.xml:43:13-77
+	android:name
+		ADDED from [:nar-dependencies:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\d132e019afe3246858ec3e8f44773bdb\AndroidManifest.xml:33:13-62
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [:nar-dependencies:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\d132e019afe3246858ec3e8f44773bdb\AndroidManifest.xml:43:9-45:41
+MERGED from [:arcore:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\a0acaf6ed0f20dce2f211bd1b0b34980\AndroidManifest.xml:33:9-35:41
+MERGED from [:arcore:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\a0acaf6ed0f20dce2f211bd1b0b34980\AndroidManifest.xml:33:9-35:41
+	android:value
+		ADDED from [:nar-dependencies:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\d132e019afe3246858ec3e8f44773bdb\AndroidManifest.xml:45:13-38
+	android:name
+		ADDED from [:nar-dependencies:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\d132e019afe3246858ec3e8f44773bdb\AndroidManifest.xml:44:13-62
+meta-data#com.google.ar.core
+ADDED from [:nar-dependencies:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\d132e019afe3246858ec3e8f44773bdb\AndroidManifest.xml:51:9-53:40
+	android:value
+		ADDED from [:nar-dependencies:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\d132e019afe3246858ec3e8f44773bdb\AndroidManifest.xml:53:13-37
+	android:name
+		ADDED from [:nar-dependencies:] C:\Users\Chukwuemeka\.gradle\caches\transforms-2\files-2.1\d132e019afe3246858ec3e8f44773bdb\AndroidManifest.xml:52:13-46
